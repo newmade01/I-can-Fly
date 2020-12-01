@@ -1,4 +1,4 @@
-# I-can-Fly
+# I-can-Fly(2017, 1년 장기 프로젝트)
 VR,Kincet,Unity 패러글라딩 증강현실 프로젝트
 
 
