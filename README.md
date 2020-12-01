@@ -11,3 +11,5 @@ OS:Windows 10, Android
 개발도구: Unity 5
 
 개발 언어: C# 
+
+비고:참가 공모전 입상(한이음 공모전)
