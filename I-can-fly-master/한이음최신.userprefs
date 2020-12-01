@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\AirMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game\Check_Time.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\FirstMovie.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\NewSurfaceShader.shader" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\EditorDevice.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Vr\GazeInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\GotoStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\GotoTutorial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\GotoSetting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\ParachuteSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\GotoHome.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\KinectManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\AirMove.cs" Line="51" Column="3" />
+      <File FileName="Assets\Scripts\Game\PlayerMove.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\junsung\Desktop\한이음최신\Assets\Scripts\Start\GotoTutorial.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

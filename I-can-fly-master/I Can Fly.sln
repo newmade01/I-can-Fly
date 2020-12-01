@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I Can Fly", "Assembly-CSharp.csproj", "{1A32FC80-C9BA-6094-E6BE-265953EF4BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I Can Fly", "Assembly-CSharp-Editor.csproj", "{21BB6763-2C6B-8602-0DE0-D03D140E249C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A32FC80-C9BA-6094-E6BE-265953EF4BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A32FC80-C9BA-6094-E6BE-265953EF4BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A32FC80-C9BA-6094-E6BE-265953EF4BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A32FC80-C9BA-6094-E6BE-265953EF4BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BB6763-2C6B-8602-0DE0-D03D140E249C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BB6763-2C6B-8602-0DE0-D03D140E249C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BB6763-2C6B-8602-0DE0-D03D140E249C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BB6763-2C6B-8602-0DE0-D03D140E249C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

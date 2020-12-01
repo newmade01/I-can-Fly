@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\GvrDevice.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game\PlayerMove.cs" Line="37" Column="72" />
+      <File FileName="Assets\Scripts\move.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\GvrDevice.cs" Line="18" Column="10" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\iOSDevice.cs" Line="29" Column="39" />
+      <File FileName="Assets\GoogleVR\Scripts\UI\GvrReticlePointer.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Scripts\Controller\GvrControllerVisual.cs" Line="36" Column="55" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\UI\GvrGaze.cs" Line="16" Column="19" />
+      <File FileName="Assets\Scripts\GazeInput.cs" Line="40" Column="35" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\EditorDevice.cs" Line="102" Column="3" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\GvrCameraUtils.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\UI\IGvrGazeResponder.cs" Line="24" Column="2" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\GvrHead.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\UnityVRDevice.cs" Line="25" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

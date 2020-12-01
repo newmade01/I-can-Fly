@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\player\move.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Finish\Result.cs" Line="27" Column="3" />
+      <File FileName="Assets\Scripts\Finish\Gui_Layout.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\MapWhere.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SaveData\SaveData.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\player\MoveTutoNone.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\player\MoveTutoDone.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\player\TutorialMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\AirMove.cs" Line="42" Column="3" />
+      <File FileName="Assets\Scripts\Start\StartTutorial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\CheckLanding.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Terrain\distanceLimit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\RingSpawnManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\player\ParachuteOpen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\RingManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\TutoParaOpen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start\TutoBag.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\player\move.cs" Line="265" Column="4" />
+      <File FileName="Assets\Scripts\SaveData\Para1.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\SaveData\Para2.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\SaveData\Para3.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\Game\LookatCamera.cs" Line="65" Column="56" />
+      <File FileName="Assets\Scripts\SaveData\HeightTF.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\SaveData\HeightF.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\SaveData\HeightFF.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\Game\WhereEyeCamera.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
